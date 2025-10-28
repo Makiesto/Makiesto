@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ----
 - 📫 How to reach me makiesto@gmail.com
 - 😄 Pronouns: he
-- ⚡ Fun fact: I'm FC Barcelona fan, what NOW is very enjoyable :DD
+- ⚡ Fun fact: I'm FC Barcelona fan, what mid is very enjoyable ://
   
 <!---
 Makiesto/Makiesto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
