@@ -43,7 +43,7 @@ I'm a third-year <b>Computer Science</b> student specializing in <b>administrati
 <h2 class="heading-element" dir="auto">Connect with me:</h2>
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateusz-stojek-733957288/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:makiesto@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mateusz.stojek@proton.me)
 
 ## Currently Looking For
 Opportunities in Backend/Fullstack Development internships where I can apply my Java skills, expand my knowledge and contribute to meaningful projects.
